@@ -492,52 +492,6 @@ GROUP BY SAL;
 
 
  ---------------ASSINGMENT NO. 7-----ON HAVING CLAUSE ---------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---------------ASSINGMENT NO- 8. -----------
 ---ON HAVING CASE 1 ---------
 
@@ -938,4 +892,5 @@ FROM EMP);
  FROM EMP
 WHERE (SAL*12)>(SELECT MAX(SAL*12)
  FROM EMP
+
 WHERE JOB='SALESMAN');

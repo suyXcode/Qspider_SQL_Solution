@@ -1,4 +1,5 @@
 # Qspider SQL Solution
+---
 
 This repository contains a complete collection of SQL queries and solutions provided during QSpiders training.  
 It includes classroom assignments, practice questions, tests, interview-focused SQL problems, and module-wise exercises.
